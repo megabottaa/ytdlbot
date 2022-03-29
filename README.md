@@ -14,6 +14,8 @@ Download videos from YouTube and other platforms through a Telegram Bot
 
 Can't deploy? Fork to your personal account and deploy it there!
 
+# Telegram Bot Link ----> https://t.me/AdamXqbitorrent_bot
+
 # Usage
 
 [https://t.me/benny_ytdlbot](https://t.me/benny_ytdlbot)
